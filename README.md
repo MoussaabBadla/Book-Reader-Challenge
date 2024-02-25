@@ -27,11 +27,15 @@ this is the needed features:
 ## Evaluation Criteria
 Your challenge solution will be evaluated based on the following criteria:
 
- --Successful implementation of the required features.
- --Code readability and maintainability using MVVM architecture.
- --Effective use of Riverpod for state management.
- --Proper error handling and user feedback for connectivity and API integration.
- --Overall code quality and adherence to Flutter best practices.
+ - Successful implementation of the required features.
+ 
+ - Code readability and maintainability using MVVM architecture.
+   
+ - Effective use of Riverpod for state management.
+   
+ - Proper error handling and user feedback for connectivity and API integration.
+   
+ - Overall code quality and adherence to Flutter best practices.
 
 Best of luck . 
 
